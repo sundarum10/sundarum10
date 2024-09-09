@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sundar Udayagiri
 - 👀 I’m interested in Developing Softwares
-- 🌱 I’m currently learning Backend Technologies with java and JavaScript
+- 🌱 I’m currently learning Backend Technologies with Python and Java 
 - 📫 Can reach me on 
             -   +91 6362807336
             -   udayagirisundar10@gmail.com
